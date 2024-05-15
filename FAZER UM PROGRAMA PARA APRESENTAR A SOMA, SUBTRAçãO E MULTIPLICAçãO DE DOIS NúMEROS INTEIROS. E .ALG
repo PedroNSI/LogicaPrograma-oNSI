@@ -1,14 +1,14 @@
-algoritmo "Fazer um programa para apresentar a soma, subtração e multiplicação de dois números inteiros. e "
+algoritmo "Fazer um programa para apresentar a soma, subtraÃ§Ã£o e multiplicaÃ§Ã£o de dois nÃºmeros inteiros. e "
 var
-       // Seção declaração de Variaveis
+       // SeÃ§Ã£o declaraÃ§Ã£o de Variaveis
         n1, n2, Soma, Subtracao , Multiplicacao :inteiro
        
 inicio
-         // Entrada de Dados Valores com Números
+         // Entrada de Dados Valores com NÃºmeros
 
-         Escreva(" Digite o primeiro Número: ")
+         Escreva(" Digite o primeiro NÃºmero: ")
          Leia(n1)
-         Escreva(" Digite o segundo Número: ")
+         Escreva(" Digite o segundo NÃºmero: ")
          Leia(n2)
          // Processamento
 
@@ -16,7 +16,7 @@ inicio
          Subtracao <- n1 - n2
          Multiplicacao <- n1 * n2
          
-         // Saída com os Resultados dos Números
+         // SaÃ­da com os Resultados dos NÃºmeros
          
          Escreval("Soma = ", soma )
          Escreval("Subtracao = " , subtracao )
